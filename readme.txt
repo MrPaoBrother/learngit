@@ -10,3 +10,4 @@ Fast forward
 dev1 change
 gg
 abc
+fixed bug
