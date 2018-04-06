@@ -7,3 +7,4 @@ Creating a new branch is quick.
 change dev
 Creating a new branch is quick and simple.
 Fast forward
+dev1 change
